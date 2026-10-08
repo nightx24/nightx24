@@ -1,6 +1,26 @@
-<h1 align="center">Hi 👋, I'm Night Walker</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nightwalkerx24&label=Profile%20views&color=0e75b6&style=flat" alt="nightwalkerx24" /> </p>
+# Hey, I'm Augustine 👋
 
+Just exploring technology and trying things out.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightwalkerx24&show_icons=true&locale=en" alt="nightwalkerx24" /></p>
+🧪 Experimenting with apps, Android & Linux  
+📱 Trying different open-source projects  
+🌐 Collecting useful resources  
+🌙 Building things just to see how they work  
 
+> **Not a developer. Just curious. :)**
+
+### 🔭 Currently exploring
+
+- Android & custom ROMs
+- Linux & FOSS
+- GitHub projects
+- Apps and web projects
+- Random tech experiments
+
+### 🌙 My projects
+
+- 🌐 [NightLab](https://github.com/nightx24/nightlab) — a personal collection of useful resources and projects
+
+---
+
+*Curiosity is enough to start.* ✨
